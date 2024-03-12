@@ -1,7 +1,6 @@
 # Atestat
-Computer Science Certificate Project (obtained at the enf ot High School)
 
-This is my Computer Science Certificate (Atestat în Informatică) project, certificate obtained at the end of the twelfth grade. At first glance, it appears to be a charming online catalog, but it meant a first complex project in my exploration of Computer Science concepts.
+This is my Computer Science Certificate (Atestat în Informatică) project, certificate obtained at the end of High School. At first glance, it appears to be a charming online catalog, but it meant a first complex project in my exploration of Computer Science concepts.
 
 Usually, it is an individual project, but me and my friends opted ti collaborate as a team to create something more compelling.
 
