@@ -1,0 +1,42 @@
+<link type="text/css" rel="stylesheet" href="note.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    
+</head>
+<body>
+    <div id="meniu" class="meniu">
+        <a href="note.html">Note</a>
+        <a href="absente.html">Absențe</a>
+        <a href="setarielv.html">Setări</a>
+    </div>
+    <div class="titlu"> 
+        <div class="container" onclick="myFunction(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+        </div>   
+    <a href="melv.html">Catalog Online</a> </div>
+    <div class="gion">
+        <img src="gionutmandru.png" alt="gionutmandru">
+    </div>
+    <script>
+        var ok=0;
+        function openNav() {
+            document.getElementById("meniu").style.width = "250px";
+            document.body.style.backgroundColor = "rgba(0,0,0,0)";
+            ok=1;
+        }
+        function closeNav() {
+            document.getElementById("meniu").style.width = "0";
+            document.body.style.backgroundColor = "white";
+            ok=0;
+        }
+        function myFunction(x) {
+            x.classList.toggle("change");
+            if(ok==0)
+                openNav();
+            else
+                closeNav();
+        }
+    </script>
+</body>

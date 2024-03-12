@@ -1,0 +1,81 @@
+<style>
+    body{
+    background-color: #38bea9;
+    }    
+</style>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="height=device-height, initial-scale=1.0">
+    <style>
+        @media screen and (max-width:600) {
+            img{
+                width: 100%;
+            }
+            form{
+                width: 100%;
+            }
+            p{
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <center><img src="icon.png" width="600" height="600"></center>
+        <center><p>Catalog Online</p></center>
+        <style>
+            img{
+                margin-top: 0;
+                width: 50%;
+                max-width: 500px;
+                min-width: 300;
+                height: auto;
+                margin-bottom: 0;
+            }
+            p{
+                font-family: "Pacifico";
+                font-size: 47;
+                color: white;
+                margin-top: 0;
+                width: 300;
+            }
+        </style>
+    </div>  
+    <div class="login">
+        <center><form action="submit.php" method="post"> 
+            Nume utilizator: <br>
+            <input type="text" name="firstname"><br>
+            Parola: <br>
+            <input type="password" name="password"><br>
+            <br>
+            <input type="submit" value="Submit" name="submit">
+        </form></center>
+        <style>
+            form{
+                font-family: "Pacifico";
+                color: white;
+                font-size: 25;
+                width: 300;
+            }
+            input{
+                border: 2px solid white;
+                border-radius: 8px;
+                width: 300;
+                height: 30;
+                font-size: 25;
+                margin-bottom: 10;
+            }
+            input[type="submit"]{
+                    border: 2px solid white;
+                    background-color: white;
+                    border-radius: 8px;
+                    width: 300;
+                    height: 50;
+                    font-family: "Pacifico";
+                    font-size: 20;
+                    margin-top: -30;
+                }
+        </style>
+    </div>
+</body>
