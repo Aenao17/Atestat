@@ -1,6 +1,6 @@
 # Atestat
 
-This is my Computer Science Certificate (Atestat în Informatică) Project <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25" height="25" />, certificate obtained at the end of High School. At first glance, it appears to be a charming online catalog, but it meant a first complex project in my exploration of Computer Science concepts.
+This is my Informatics Certificate (Atestat în Informatică) Project <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25" height="25" />, certificate obtained at the end of High School. At first glance, it appears to be a charming online catalog, but it meant a first complex project in my exploration of Computer Science concepts.
 
 Usually, it is an individual project, but me and my friends opted to collaborate as a team to create something more compelling. We decided not to treat this project superficially, but to invest our efforts in creating the most interesting product possible.
 
